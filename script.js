@@ -38,15 +38,7 @@ const SYMBOL_CHAR_CODES = arrayFormLowToHigh(33,47).contact(
 // const SYMBOL_CHAR_CODES = arrayFormLowToHigh(33,47).contact(
 //   arrayFormLowToHigh(58,64)const LOWERCASE_CHAR_CODES: 97
 
-
-
-
-  arrayFormLowToHigh(91,96)
-).concat(arrayFormLowToHigh(123,126)
-)
-
-
-characterAmountNumber.addEventListener("input", synCharacterAmount);
+sgAmount);
 characterAmountRange.addEventListener("input", synCharacterAmount);
 
 
